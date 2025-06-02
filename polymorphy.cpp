@@ -19,3 +19,5 @@ public:
         cout << "Pesan dari lia" << endl;
     }
 };
+
+class lia : public seseorang
